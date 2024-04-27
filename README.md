@@ -6,23 +6,17 @@ Hello there! 👋 I'm Anushka Srivastava, a dedicated JavaScript application dev
 
 ## Languages & Frameworks
 
-- JavaScript (Node.js, React, Express)
-- Java
-- HTML
-- CSS
-- SQL
+JavaScript (Node.js, React, Express) || Java || HTML5 || CSS3 || SQL
 
 ## Front-End Development
 
 I specialize in:
-
 - Responsive web design
 - Single Page Applications (SPAs)
 
 ## Back-End Development
 
 My expertise includes:
-
 - RESTful APIs
 - Server-side scripting
 - Database design (MySQL, MongoDB)
@@ -31,10 +25,7 @@ My expertise includes:
 
 I work with:
 
-- Git
-- VSCode
-- Express.js
-- MERN Stack
+Git | VSCode | Express.js | MERN Stack
 
 ## Competitive Programming
 
